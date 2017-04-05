@@ -13,3 +13,5 @@ var greet2 = fs.readFile(__dirname + '/greet.txt',
         }
     });
 
+console.log('Done!');
+
